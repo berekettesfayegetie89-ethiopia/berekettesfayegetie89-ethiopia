@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 - 🎓 3rd Year Computer Science Student (Ethiopia)
-- 💻 Web Developer (HTML, CSS, JS, Bootstrap, PHP, MySQL)
+- 💻 Web Developer (HTML, CSS, JS, Bootstrap, nodeJS, MySQL)
 - ⚛️ Currently learning React & GitHub
 - 🔥 Building real-world projects
 
