@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**berekettesfayegetie89-ethiopia/berekettesfayegetie89-ethiopia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--# Hi, I'm Bereket 👋
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 3rd Year Computer Science Student (Ethiopia)
+- 💻 Web Developer (HTML, CSS, JS, Bootstrap, PHP, MySQL)
+- ⚛️ Currently learning React & GitHub
+- 🔥 Building real-world projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- nodeJS
+- MySQL,MongoDB
+- Git & GitHub
+
+## 📌 Current Project
+- 🎓 Student Grade Management System
+- 🌐 Portfolio Website
+
+## 📫 Contact Me
+- Email: berekettesfayegetie89@gmail.com
+- GitHub: https://github.com/berekettesfayegetie89-ethiopia
+
+
+
